@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlphaMatch</string>
+    <string name="title_activity_game_home">GameHome</string>
+</resources>
